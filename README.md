@@ -58,6 +58,5 @@ Ensure you have the following installed:
 ## License
 This project is open-source and available under the MIT License.
 
-## Author
-- **Your Name** - [Your GitHub Profile](https://github.com/your-profile)
-
+## Deployment Link 
+https://gururaj8756-meeting-mom-v5aih0.streamlit.app/
